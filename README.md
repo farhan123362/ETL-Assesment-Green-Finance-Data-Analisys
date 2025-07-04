@@ -4,8 +4,8 @@
 
  | No| Nama | No Absen |
 | --- | --- | --- |
-| 1. | Bavari | .... |
-| 2. | Deka | ..... |
+| 1. | Bavari | 9.029.DB2025 |
+| 2. | Deka | 9.037.DB2025 |
 | 3. | Farhansyah | 10.049.DB2025 |
 | 4. | Maksum | 9.045.DB2025 |
 
